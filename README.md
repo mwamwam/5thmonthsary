@@ -1,2 +1,2 @@
 # 5TH MONTHSARY
-WEBSITE: https://mwamwam.github.io/TOGETHER/
+WEBSITE: https://mwamwam.github.io/5thmonthsary/
